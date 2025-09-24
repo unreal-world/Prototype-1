@@ -118,8 +118,7 @@ GameObject:
   - component: {fileID: 3306576}
   - component: {fileID: 2326272}
   - component: {fileID: 4553097992365807418}
-  - component: {fileID: 7282016281066825841}
-  - component: {fileID: 3547176262415542358}
+  - component: {fileID: 6089129230830350208}
   m_Layer: 0
   m_Name: Veh_Armor_Car_01
   m_TagString: Untagged
@@ -220,19 +219,7 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 93b9de2c4710d6b4e9ac38987a064d42, type: 3}
---- !u!114 &7282016281066825841
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 104122}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: caecb91cb4f24d74b82b0e803b5024c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!54 &3547176262415542358
+--- !u!54 &6089129230830350208
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
